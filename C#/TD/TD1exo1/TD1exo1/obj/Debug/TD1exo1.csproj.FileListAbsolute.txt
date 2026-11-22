@@ -1,0 +1,8 @@
+C:\Revision_C#\TD1exo1\TD1exo1\obj\Debug\TD1exo1.csproj.AssemblyReference.cache
+C:\Revision_C#\TD1exo1\TD1exo1\obj\Debug\TD1exo1.csproj.CoreCompileInputs.cache
+C:\Revision_C#\TD1exo1\TD1exo1\bin\Debug\TD1exo1.exe.config
+C:\Revision_C#\TD1exo1\TD1exo1\bin\Debug\TD1exo1.exe
+C:\Revision_C#\TD1exo1\TD1exo1\bin\Debug\TD1exo1.pdb
+C:\Revision_C#\TD1exo1\TD1exo1\obj\Debug\TD1exo1.exe
+C:\Revision_C#\TD1exo1\TD1exo1\obj\Debug\TD1exo1.pdb
+C:\Revision_C#\TD1exo1\TD1exo1\obj\Debug\TD1exo1.exe.config

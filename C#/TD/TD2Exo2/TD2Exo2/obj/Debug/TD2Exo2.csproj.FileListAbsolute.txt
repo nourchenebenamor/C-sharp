@@ -1,0 +1,8 @@
+C:\Revision_C#\TD2Exo2\TD2Exo2\bin\Debug\TD2Exo2.exe.config
+C:\Revision_C#\TD2Exo2\TD2Exo2\bin\Debug\TD2Exo2.exe
+C:\Revision_C#\TD2Exo2\TD2Exo2\bin\Debug\TD2Exo2.pdb
+C:\Revision_C#\TD2Exo2\TD2Exo2\obj\Debug\TD2Exo2.csproj.AssemblyReference.cache
+C:\Revision_C#\TD2Exo2\TD2Exo2\obj\Debug\TD2Exo2.csproj.CoreCompileInputs.cache
+C:\Revision_C#\TD2Exo2\TD2Exo2\obj\Debug\TD2Exo2.exe
+C:\Revision_C#\TD2Exo2\TD2Exo2\obj\Debug\TD2Exo2.pdb
+C:\Revision_C#\TD2Exo2\TD2Exo2\obj\Debug\TD2Exo2.exe.config

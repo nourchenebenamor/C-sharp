@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Revision_C#\\TD2exo4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2D5B15-529D-42E7-B077-7C8D060C654E}|TD2exo4\\TD2exo4.csproj|c:\\revision_c#\\td2exo4\\td2exo4\\polynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2D5B15-529D-42E7-B077-7C8D060C654E}|TD2exo4\\TD2exo4.csproj|solutionrelative:td2exo4\\polynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2D5B15-529D-42E7-B077-7C8D060C654E}|TD2exo4\\TD2exo4.csproj|c:\\revision_c#\\td2exo4\\td2exo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2D5B15-529D-42E7-B077-7C8D060C654E}|TD2exo4\\TD2exo4.csproj|solutionrelative:td2exo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2D5B15-529D-42E7-B077-7C8D060C654E}|TD2exo4\\TD2exo4.csproj|c:\\revision_c#\\td2exo4\\td2exo4\\monomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2D5B15-529D-42E7-B077-7C8D060C654E}|TD2exo4\\TD2exo4.csproj|solutionrelative:td2exo4\\monomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Polynomial.cs",
+              "DocumentMoniker": "C:\\Revision_C#\\TD2exo4\\TD2exo4\\Polynomial.cs",
+              "RelativeDocumentMoniker": "TD2exo4\\Polynomial.cs",
+              "ToolTip": "C:\\Revision_C#\\TD2exo4\\TD2exo4\\Polynomial.cs*",
+              "RelativeToolTip": "TD2exo4\\Polynomial.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T13:35:11.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monomial.cs",
+              "DocumentMoniker": "C:\\Revision_C#\\TD2exo4\\TD2exo4\\Monomial.cs",
+              "RelativeDocumentMoniker": "TD2exo4\\Monomial.cs",
+              "ToolTip": "C:\\Revision_C#\\TD2exo4\\TD2exo4\\Monomial.cs",
+              "RelativeToolTip": "TD2exo4\\Monomial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T13:34:56.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Revision_C#\\TD2exo4\\TD2exo4\\Program.cs",
+              "RelativeDocumentMoniker": "TD2exo4\\Program.cs",
+              "ToolTip": "C:\\Revision_C#\\TD2exo4\\TD2exo4\\Program.cs",
+              "RelativeToolTip": "TD2exo4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T11:38:45.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

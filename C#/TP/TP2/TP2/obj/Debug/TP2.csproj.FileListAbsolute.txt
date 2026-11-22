@@ -1,0 +1,11 @@
+C:\Revision_C#\TP2\TP2\obj\Debug\TP2.csproj.AssemblyReference.cache
+C:\Revision_C#\TP2\TP2\obj\Debug\TP2.Form1.resources
+C:\Revision_C#\TP2\TP2\obj\Debug\TP2.Properties.Resources.resources
+C:\Revision_C#\TP2\TP2\obj\Debug\TP2.csproj.GenerateResource.cache
+C:\Revision_C#\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\Revision_C#\TP2\TP2\bin\Debug\TP2.exe.config
+C:\Revision_C#\TP2\TP2\bin\Debug\TP2.exe
+C:\Revision_C#\TP2\TP2\bin\Debug\TP2.pdb
+C:\Revision_C#\TP2\TP2\obj\Debug\TP2.exe
+C:\Revision_C#\TP2\TP2\obj\Debug\TP2.pdb
+C:\Revision_C#\TP2\TP2\obj\Debug\TP2.exe.config

@@ -1,0 +1,7 @@
+C:\Revision_C#\TD1exo5\TD1exo5\bin\Debug\TD1exo5.exe.config
+C:\Revision_C#\TD1exo5\TD1exo5\bin\Debug\TD1exo5.exe
+C:\Revision_C#\TD1exo5\TD1exo5\bin\Debug\TD1exo5.pdb
+C:\Revision_C#\TD1exo5\TD1exo5\obj\Debug\TD1exo5.csproj.AssemblyReference.cache
+C:\Revision_C#\TD1exo5\TD1exo5\obj\Debug\TD1exo5.csproj.CoreCompileInputs.cache
+C:\Revision_C#\TD1exo5\TD1exo5\obj\Debug\TD1exo5.exe
+C:\Revision_C#\TD1exo5\TD1exo5\obj\Debug\TD1exo5.pdb

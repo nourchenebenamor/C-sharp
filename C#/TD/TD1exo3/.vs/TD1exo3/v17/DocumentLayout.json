@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Revision_C#\\TD1exo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B43C6459-C658-48EA-BCDC-BD7A79E86C68}|TD1exo3\\TD1exo3.csproj|c:\\revision_c#\\td1exo3\\td1exo3\\duree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43C6459-C658-48EA-BCDC-BD7A79E86C68}|TD1exo3\\TD1exo3.csproj|solutionrelative:td1exo3\\duree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43C6459-C658-48EA-BCDC-BD7A79E86C68}|TD1exo3\\TD1exo3.csproj|C:\\Revision_C#\\TD1exo3\\td1exo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43C6459-C658-48EA-BCDC-BD7A79E86C68}|TD1exo3\\TD1exo3.csproj|solutionrelative:td1exo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Duree.cs",
+              "DocumentMoniker": "C:\\Revision_C#\\TD1exo3\\TD1exo3\\Duree.cs",
+              "RelativeDocumentMoniker": "TD1exo3\\Duree.cs",
+              "ToolTip": "C:\\Revision_C#\\TD1exo3\\TD1exo3\\Duree.cs",
+              "RelativeToolTip": "TD1exo3\\Duree.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T20:27:57.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Revision_C#\\TD1exo3\\TD1exo3\\Program.cs",
+              "RelativeDocumentMoniker": "TD1exo3\\Program.cs",
+              "ToolTip": "C:\\Revision_C#\\TD1exo3\\TD1exo3\\Program.cs",
+              "RelativeToolTip": "TD1exo3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vw4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T20:27:33.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

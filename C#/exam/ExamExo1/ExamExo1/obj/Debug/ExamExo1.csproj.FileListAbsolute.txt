@@ -1,0 +1,8 @@
+C:\Revision_C#\ExamExo1\ExamExo1\bin\Debug\ExamExo1.exe.config
+C:\Revision_C#\ExamExo1\ExamExo1\bin\Debug\ExamExo1.exe
+C:\Revision_C#\ExamExo1\ExamExo1\bin\Debug\ExamExo1.pdb
+C:\Revision_C#\ExamExo1\ExamExo1\obj\Debug\ExamExo1.csproj.AssemblyReference.cache
+C:\Revision_C#\ExamExo1\ExamExo1\obj\Debug\ExamExo1.csproj.CoreCompileInputs.cache
+C:\Revision_C#\ExamExo1\ExamExo1\obj\Debug\ExamExo1.exe
+C:\Revision_C#\ExamExo1\ExamExo1\obj\Debug\ExamExo1.pdb
+C:\Revision_C#\ExamExo1\ExamExo1\obj\Debug\ExamExo1.exe.config

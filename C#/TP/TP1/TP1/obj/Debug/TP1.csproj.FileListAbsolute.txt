@@ -1,0 +1,11 @@
+C:\Revision_C#\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Revision_C#\TP1\TP1\bin\Debug\TP1.exe
+C:\Revision_C#\TP1\TP1\bin\Debug\TP1.pdb
+C:\Revision_C#\TP1\TP1\obj\Debug\TP1.csproj.AssemblyReference.cache
+C:\Revision_C#\TP1\TP1\obj\Debug\TP1.Form1.resources
+C:\Revision_C#\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Revision_C#\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+C:\Revision_C#\TP1\TP1\obj\Debug\TP1.csproj.CoreCompileInputs.cache
+C:\Revision_C#\TP1\TP1\obj\Debug\TP1.exe
+C:\Revision_C#\TP1\TP1\obj\Debug\TP1.pdb
+C:\Revision_C#\TP1\TP1\obj\Debug\TP1.exe.config
